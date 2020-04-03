@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+                   
+
+int main()
+
+{
+
+  int i;
+
+  int variable = 1;
+
+  for(i=5; i>=1; i--)
+
+  {
+
+    cout << variable << " ";
+
+    variable++;
+
+  }
+
+}
